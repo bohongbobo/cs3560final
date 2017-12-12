@@ -1,0 +1,15 @@
+title classes
+
+OU->student: enter you OU Id and password
+student->cs2400: get C or higher
+note left of cs2400: start learning C++
+student->cs2401: get C or higher
+note left of cs2401: leanring more about C++
+student->cs2650: get C or higher
+note left of cs2650: learning the ethical computing
+
+cs2400->student: get your grade of the class
+cs2401->student: get your grade of the class
+cs2650->student: get your grade of the class
+
+student->student: get into next level of class
